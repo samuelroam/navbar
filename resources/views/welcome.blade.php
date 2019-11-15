@@ -15,9 +15,9 @@
     <body>
         <ul>
             <li><a href="default.asp">Home</a></li>
-            <li><a href="news.asp">News</a></li>
-            <li><a href="contact.asp">Contact</a></li>
-            <li><a href="about.asp">About</a></li>
+            <li><a href="empleados">Empleados</a></li>
+            <li><a href="departamentos">Departamentos</a></li>
+            <li><a href="proyectos">Proyectos</a></li>
           </ul> 
     </body>
 </html>
