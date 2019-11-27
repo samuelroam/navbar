@@ -14,7 +14,7 @@
     </head>
     <body>
         <ul>
-            <li><a href="default.asp">Home</a></li>
+            <li><a href="welcome">Home</a></li>
             <li><a href="empleados">Empleados</a></li>
             <li><a href="departamentos">Departamentos</a></li>
             <li><a href="proyectos">Proyectos</a></li>
